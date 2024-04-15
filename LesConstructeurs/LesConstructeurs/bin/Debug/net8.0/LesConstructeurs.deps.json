@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LesConstructeurs/1.0.0": {
+        "runtime": {
+          "LesConstructeurs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LesConstructeurs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

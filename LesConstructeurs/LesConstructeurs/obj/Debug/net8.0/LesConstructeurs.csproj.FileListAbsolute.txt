@@ -1,0 +1,14 @@
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\bin\Debug\net8.0\LesConstructeurs.exe
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\bin\Debug\net8.0\LesConstructeurs.deps.json
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\bin\Debug\net8.0\LesConstructeurs.runtimeconfig.json
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\bin\Debug\net8.0\LesConstructeurs.dll
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\bin\Debug\net8.0\LesConstructeurs.pdb
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\LesConstructeurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\LesConstructeurs.AssemblyInfoInputs.cache
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\LesConstructeurs.AssemblyInfo.cs
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\LesConstructeurs.csproj.CoreCompileInputs.cache
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\LesConstructeurs.dll
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\refint\LesConstructeurs.dll
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\LesConstructeurs.pdb
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\LesConstructeurs.genruntimeconfig.cache
+C:\Users\Siwar\formation\QuetesC#\LesConstructeurs\LesConstructeurs\obj\Debug\net8.0\ref\LesConstructeurs.dll
